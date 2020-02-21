@@ -1,0 +1,69 @@
+---
+title: "git_00"
+author: "Math_115"
+date: "spring semester"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+twinkle, twinkle,little bat!  
+how i wonder where your at  
+up abover the the world you fly  
+like a tea tray in the sky  
+twinkle, twinkle, little bat how i wonder where your at!  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+some say the world will end in fire  
+some say in ice  
+from what ive tasted of desire  
+it hold with those who favor fire  
+but if i had to perish twice
+  
+  
+
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea  
+shining with all his might  
+he did his very best to make
+the billows smooth and bright  
+and this was odd because it was  
+the middle of the night  
+
+the moon was shining sulkily  
+because she thought the sun  
+had got no business to be there  
+after the day was done  
+its very rude of him she said  
+to come and spoil the fun  
+
+
+  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+it was many and many a yaer ago  
+in a kingdom by the sea  
+that maiden there lived whom you may know  
+by the name of annabel lee  
+and this maiden she lived with no other thought  
+than to love and be loved by me  
+i was a child and she was a child  
+in this kingdom by the sea  
+but we loved with a love that was more than love  
+i and annabel lee  
